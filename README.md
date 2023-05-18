@@ -12,6 +12,8 @@ https://sites.google.com/view/yoshimarunaoki
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru008"/>
 </a>
 
+
+
 ## Proceeding
 ### 査読あり
 - Naoki Yoshimaru, Kazuma Kusu, Yusuke Kimura, Kenji Hatano, ``Ingredient Embeddings Constructed by Biased Random Walk on Ingredient-Compound Graph",27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems,(2023).

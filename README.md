@@ -12,9 +12,9 @@ https://sites.google.com/view/yoshimarunaoki
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maru008"/>
 </a>
 
+---
 
-
-## Proceeding
+<!-- ## Proceeding
 ### 査読あり
 - Naoki Yoshimaru, Kazuma Kusu, Yusuke Kimura, Kenji Hatano, ``Ingredient Embeddings Constructed by Biased Random Walk on Ingredient-Compound Graph",27th International Conference on Knowledge-Based and Intelligent Information & Engineering Systems,(2023).
 
@@ -30,3 +30,4 @@ https://sites.google.com/view/yoshimarunaoki
 - 吉丸 直希, 木村 優介, 楠 和馬, 波多野 賢治,``部分構造を考慮した化合物分散表現の食材分類タスクにおける効果",情報処理学会研究報告,2022-IFAT-148,No.8,(2022).
 
 - 吉丸 直希, 木村 優介, 寺本 優香, 波多野 賢治,``レシピでの共起確率を考慮した食材分散表現の構築",情報処理学会第 84 回全国大会予稿集,第1分冊,pp.109--110,(2022).
+ -->

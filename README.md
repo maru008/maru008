@@ -1,7 +1,7 @@
 
 ## website 
 
-[https://sites.google.com/view/yoshimarunaoki](https://naokiyoshimaru.com/)
+[site](https://naokiyoshimaru.com/)
 
 ## status
 
